@@ -235,7 +235,7 @@
     </div>
   </div>
 
-  <div class="container" id="surveyContainer" style="display: none;"> {/* Initialement masqué */}
+  <div class="container" id="surveyContainer" style="display: none;">
     <h1>Enquête Philosophie : Professeurs du lycée</h1>
     <div class="progress" id="progress"></div>
     <div class="domain" id="domain"></div>

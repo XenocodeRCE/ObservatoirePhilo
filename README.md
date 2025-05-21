@@ -2,6 +2,10 @@
 
 **ObservatoirePhilo** est un projet open-source visant à recueillir, analyser et publier les opinions philosophiques et pédagogiques des professeurs de philosophie en France, dans l'esprit du _PhilPapers Survey_ mais adapté au contexte français.
 
+## Lien
+
+Voici le lien qui permet de passer l'exercice : [cliquez ici](https://philo-lycee.fr/ObservatoirePhilo/).
+
 ## Objectifs
 
 - **Sonder les grandes questions philosophiques** auprès des enseignants français.
